@@ -1,0 +1,2 @@
+# Module pl.put.tpsi.frontend.frontendJUnit.JUnit
+# RPC service class, partial path of RPC policy file

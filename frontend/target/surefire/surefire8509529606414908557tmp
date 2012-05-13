@@ -1,0 +1,31 @@
+#surefire
+#Sun May 13 13:58:09 CEST 2012
+testClassesDirectory=C\:\\Users\\Oskar\\workspace\\TPSI-projekt\\frontend\\target\\test-classes
+classPathUrl.4=C\:\\Users\\Oskar\\.m2\\repository\\javax\\validation\\validation-api\\1.0.0.GA\\validation-api-1.0.0.GA.jar
+classPathUrl.3=C\:\\Users\\Oskar\\.m2\\repository\\com\\google\\gwt\\gwt-user\\2.4.0\\gwt-user-2.4.0.jar
+classPathUrl.2=C\:\\Users\\Oskar\\.m2\\repository\\com\\google\\gwt\\gwt-servlet\\2.4.0\\gwt-servlet-2.4.0.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\Oskar\\workspace\\TPSI-projekt\\frontend\\target\\frontend-0.0.1-SNAPSHOT\\WEB-INF\\classes
+reportsDirectory=C\:\\Users\\Oskar\\workspace\\TPSI-projekt\\frontend\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\Oskar\\workspace\\TPSI-projekt\\frontend\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\Oskar\\workspace\\TPSI-projekt\\frontend\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\Oskar\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=C\:\\Users\\Oskar\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.7.1\\surefire-junit4-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=C\:\\Users\\Oskar\\workspace\\TPSI-projekt\\frontend\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+includes0=**/Test*.java
+childDelegation=false
+classPathUrl.6=C\:\\Users\\Oskar\\.m2\\repository\\junit\\junit\\4.7\\junit-4.7.jar
+classPathUrl.5=C\:\\Users\\Oskar\\.m2\\repository\\javax\\validation\\validation-api\\1.0.0.GA\\validation-api-1.0.0.GA-sources.jar

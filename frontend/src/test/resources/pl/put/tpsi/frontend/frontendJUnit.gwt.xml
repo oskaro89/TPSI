@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='pl.put.tpsi.frontend.frontend'/>
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/frontend/greet" class="pl.put.tpsi.frontend.server.GreetingServiceImpl" />
+
+</module>

@@ -1,0 +1,2 @@
+serviceClass: pl.put.tpsi.frontend.client.GreetingService
+path: C952ABEA184354319D3C5144C653E608.gwt.rpc
